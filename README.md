@@ -1,18 +1,19 @@
 
 <h1 align="center"> 
-    🐍 Python | Exercicios 🐍
+     Exercicios desenvolvido durante Curso em Video 👩🏻‍💻
 </h1>
 
-<h6 align="center">Exercicíos desenvolvido durante o curso de Python do Curso em Video </h6>
+<h1 align="center">Linguagens </h1>
+<h4 > Python 🐍 </h4>
+<h4 > HTML/CSS </h4>
+<h4 > JavaScript </h4>
 
-<h1 aling="center"> Objetivo</h1>
+<h1 > Objetivo</h1>
 
-<h6 aling="center"> Entender o seus conceitos, executar alguns programas e ensinar alguns recursos básicos.
-</h6>
+<h4 aling="center"> Entender o seus conceitos, executar alguns programas e ensinar alguns recursos básicos.
+</h4>
 
 
-<h6 aling="center">
-</h6>
 
 📸 Screenshots
 
